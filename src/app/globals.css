@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fonts are loaded via next/font/google in [locale]/layout.tsx — no render-blocking @import. */
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    @apply bg-white text-black antialiased;
+  }
+  /* Editorial selection: pure invert. */
+  ::selection {
+    background: #000;
+    color: #fff;
+  }
+  /* Hide the native cursor only when the custom blend cursor is active (fine pointer + motion ok). */
+  @media (pointer: fine) {
+    body.custom-cursor,
+    body.custom-cursor a,
+    body.custom-cursor button {
+      cursor: none;
+    }
+  }
+  /* Reduced-motion backstop — kills Lenis/motion regardless of JS path. */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+  /* Route cross-fade via the View Transitions API (fires only if supported). */
+  @media (prefers-reduced-motion: no-preference) {
+    ::view-transition-old(root),
+    ::view-transition-new(root) {
+      animation-duration: 0.5s;
+      animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+      mix-blend-mode: normal;
+    }
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  /* Micro-label: Inter 500, tiny, uppercase, wide-tracked — the editorial tag voice. */
+  .micro-label {
+    @apply text-[11px] font-medium uppercase leading-none tracking-[0.22em];
+  }
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* Monochrome treatment on every customer/shop image. */
+  .grayscale-img {
+    @apply grayscale contrast-[1.02];
+  }
+}

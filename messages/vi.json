@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "title": "Hair Salon Phương — Tạo Tóc Cao Cấp tại Quận 10",
+    "description": "Cắt tóc, nhuộm và tạo kiểu cao cấp tại trung tâm Quận 10, TP. Hồ Chí Minh. Nơi đam mê gặp gỡ sự hoàn hảo."
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "about": "Câu Chuyện",
+    "services": "Dịch Vụ",
+    "gallery": "Bộ Sưu Tập",
+    "reviews": "Đánh Giá",
+    "contact": "Liên Hệ"
+  },
+  "common": {
+    "languageSwitch": "English",
+    "languageLabel": "VI",
+    "call": "Gọi",
+    "zalo": "Zalo",
+    "openNow": "Đang mở",
+    "closedNow": "Đã đóng",
+    "menu": "Menu",
+    "close": "Đóng",
+    "viewWork": "Xem Tác Phẩm",
+    "drag": "Kéo",
+    "back": "Quay lại"
+  },
+  "home": {
+    "slogan": "Có một điều bất ngờ là làm TÓC không đến từ NĂNG KHIẾU mà đến từ ĐAM MÊ",
+    "sloganEmphasis": ["TÓC", "NĂNG KHIẾU", "ĐAM MÊ"],
+    "cta": "Gọi Ngay",
+    "subtitle": "Cắt tóc & tạo kiểu cao cấp tại trung tâm Quận 10",
+    "scrollPrompt": "Cuộn",
+    "eyebrow": "Hair Salon Phương — Quận 10",
+    "heroTitle": "Nghệ thuật\ncủa tóc.",
+    "hoursTitle": "Giờ Làm Việc",
+    "galleryTitle": "Tác Phẩm Của Chúng Tôi",
+    "gallerySubtitle": "Xem những gì chúng tôi đã làm cho khách hàng",
+    "galleryEyebrow": "Tác Phẩm Tuyển Chọn",
+    "galleryLink": "Xem tất cả",
+    "reviewTitle": "Khách Hàng Nói Gì",
+    "reviewEyebrow": "Đánh Giá",
+    "contactTitle": "Liên Hệ",
+    "philosophyEyebrow": "Triết Lý",
+    "philosophyTitle": "Không phải năng khiếu. Mà là đam mê.",
+    "philosophySlogan": [
+      "Có một điều bất ngờ",
+      "là làm *TÓC*",
+      "không đến từ *NĂNG KHIẾU*",
+      "mà đến từ *ĐAM MÊ*."
+    ],
+    "philosophyBody": "Một mái tóc đẹp không phải là món quà bẩm sinh. Nó là sự rèn luyện, là nỗi ám ảnh, là nghề thủ công được mài giũa qua hàng ngàn mái tóc. Chúng tôi tin vào điều sau — và điều đó thể hiện ở mỗi đường cắt.",
+    "storyEyebrow": "Quy Trình",
+    "storyTitle": "Từ tư vấn đến tự tin",
+    "servicesEyebrow": "Dịch Vụ",
+    "servicesTitle": "Mỗi dịch vụ, đều được trân trọng",
+    "servicesLink": "Xem tất cả dịch vụ",
+    "hoursEyebrow": "Giờ",
+    "faqEyebrow": "Cần biết",
+    "faqTitle": "Câu hỏi, được giải đáp",
+    "faqLink": "Thêm câu hỏi",
+    "finalEyebrow": "Đặt lịch qua điện thoại",
+    "finalTitle": "Gọi ngay.",
+    "finalSubtitle": "Trò chuyện trực tiếp với salon. Không mẫu đơn, không chờ đợi — chỉ một cuộc nói chuyện và một lịch hẹn."
+  },
+  "story": {
+    "steps": [
+      { "kicker": "01", "text": "Chúng tôi lắng nghe — tóc của bạn, cuộc sống của bạn, thói quen của bạn." },
+      { "kicker": "02", "text": "Chúng tôi thiết kế — một kiểu dáng phù hợp với khuôn mặt và đôi tay bạn." },
+      { "kicker": "03", "text": "Chúng tôi tạo kiểu — với sự chính xác, sản phẩm, và kiên nhẫn." },
+      { "kicker": "04", "text": "Bạn rời đi — tự tin, mỗi lần đều vậy." }
+    ]
+  },
+  "about": {
+    "title": "Câu Chuyện Của Chúng Tôi",
+    "subtitle": "Niềm đam mê với mái tóc kéo dài qua nhiều năm tận tụy",
+    "eyebrow": "Câu Chuyện",
+    "paragraph1": "Chào mừng đến với Hair Salon Phương, nơi mỗi lần cắt tóc là một tác phẩm nghệ thuật. Được thành lập trên niềm tin rằng mái tóc đẹp đến từ đam mê chứ không chỉ từ năng khiếu, chúng tôi đã phục vụ cộng đồng Quận 10 với sự tận tâm và chu đáo.",
+    "paragraph2": "Đội ngũ của chúng tôi kết hợp nhiều năm kinh nghiệm và tình yêu thực sự với nghề. Chúng tôi tin rằng mọi khách hàng đều xứng đáng rời đi với cảm giác tự tin và xinh đẹp.",
+    "valuesTitle": "Giá Trị Của Chúng Tôi",
+    "value1": "Sản Phẩm Chất Lượng — Chúng tôi chỉ sử dụng sản phẩm chuyên nghiệp",
+    "value2": "Dịch Vụ Cá Nhân Hóa — Mỗi khách hàng được tư vấn riêng",
+    "value3": "Không Ngừng Học Hỏi — Chúng tôi cập nhật xu hướng và kỹ thuật mới",
+    "visitUs": "Ghé Thăm Chúng Tôi",
+    "address": "244 Vĩnh Viễn, Phường 4, Quận 10, TP. Hồ Chí Minh"
+  },
+  "services": {
+    "title": "Dịch Vụ Của Chúng Tôi",
+    "subtitle": "Chăm sóc tóc chuyên nghiệp dành riêng cho bạn",
+    "eyebrow": "Dịch Vụ",
+    "contactForPrice": "Liên hệ để biết giá",
+    "categories": {
+      "cut": "Cắt Tóc",
+      "wash": "Gội & Dưỡng",
+      "perm": "Uốn",
+      "color": "Nhuộm",
+      "straighten": "Duỗi",
+      "other": "Dịch Vụ Khác"
+    },
+    "items": {
+      "cutMen": "Cắt Tóc Nam",
+      "cutWomen": "Cắt Tóc Nữ",
+      "cutKids": "Cắt Tóc Trẻ Em",
+      "cutStyle": "Tạo Kiểu & Sấy",
+      "washBasic": "Gội Cơ Bản",
+      "washRelax": "Massage Da Đầu Thư Giãn",
+      "washTreatment": "Dưỡng Tóc",
+      "permCurly": "Uốn Xoăn",
+      "permKorean": "Uốn Hàn Quốc",
+      "permVolume": "Uốn Phồng",
+      "colorNatural": "Nhuộm Màu Tự Nhiên",
+      "colorBalayage": "Balayage / Ombre",
+      "colorBleach": "Tẩy & Dưỡng Màu",
+      "straightRegular": "Duỗi Thông Thường",
+      "straightKeratin": "Duỗi Keratin",
+      "otherShave": "Cạo Râu & Tỉa Râu",
+      "otherWax": "Wax Lông",
+      "otherRepair": "Phục Hồi Tóc"
+    }
+  },
+  "gallery": {
+    "title": "Bộ Sưu Tập",
+    "subtitle": "Sản phẩm thật, khách hàng thật, kết quả thật",
+    "eyebrow": "Bộ Sưu Tập",
+    "count": "{count} kiểu tóc",
+    "filterAll": "Tất Cả",
+    "filterMen": "Nam",
+    "filterWomen": "Nữ",
+    "filterKids": "Trẻ Em",
+    "filterColor": "Nhuộm",
+    "beforeAfterEyebrow": "Trước / Sau",
+    "beforeAfterTitle": "Thấy sự khác biệt",
+    "beforeAfterSubtitle": "Kéo để xem sự thay đổi"
+  },
+  "reviews": {
+    "title": "Khách Hàng Nói Gì",
+    "subtitle": "Chúng tôi tự hào về phản hồi từ những khách hàng thân yêu",
+    "eyebrow": "Đánh Giá",
+    "ratingValue": "4.9",
+    "ratingLabel": "Đánh giá trung bình",
+    "writeReview": "Viết Đánh Giá Trên Google",
+    "reviews": [
+      {
+        "name": "Ngọc Trân",
+        "text": "Salon đẹp nhất Quận 10! Đội ngũ rất lành nghề và luôn lắng nghe mong muốn của mình. Nơi cắt tóc yêu thích của tôi.",
+        "rating": 5
+      },
+      {
+        "name": "Minh Anh",
+        "text": "Tôi đã đến đây nhiều năm rồi. Chuyên nghiệp, thân thiện và chất lượng ổn định. Rất đáng giới thiệu!",
+        "rating": 5
+      },
+      {
+        "name": "Thanh Hoa",
+        "text": "Nhuộm balayage tuyệt vời! Màu ra đúng như tôi tưởng tượng. Chắc chắn sẽ quay lại.",
+        "rating": 5
+      },
+      {
+        "name": "Quốc Bảo",
+        "text": "Không gian barber tuyệt vời. Cắt đẹp, giá hợp lý, và nhân viên rất tận tâm.",
+        "rating": 5
+      },
+      {
+        "name": "Linh Chi",
+        "text": "Dẫn con trai đi cắt tóc lần đầu. Họ kiên nhẫn và nhẹ nhàng với bé. Trải nghiệm tuyệt vời!",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Liên Hệ",
+    "subtitle": "Chúng tôi rất mong được nghe từ bạn. Đặt lịch ngay hôm nay!",
+    "eyebrow": "Liên Hệ",
+    "phone": "Điện Thoại",
+    "zalo": "Zalo",
+    "email": "Email",
+    "address": "Địa Chỉ",
+    "hours": "Giờ Làm Việc",
+    "hoursWeekday": "Thứ 2 – Chủ Nhật: 8:00 – 20:30",
+    "callNow": "Gọi Ngay",
+    "getDirections": "Chỉ Đường",
+    "followUs": "Theo Dõi",
+    "bookingNote": "Đặt lịch qua điện thoại — không có mẫu đơn trực tuyến.",
+    "faqTitle": "Câu hỏi thường gặp"
+  },
+  "faq": {
+    "items": [
+      {
+        "q": "Tôi có cần đặt lịch trước, hay có thể đến luôn?",
+        "a": "Cả hai đều được. Khách vãng lai được phục vụ theo thứ tự đến, nhưng để tránh chờ đợi — nhất là buổi tối và cuối tuần — bạn nên gọi trước để giữ chỗ."
+      },
+      {
+        "q": "Có chỗ đậu xe gần đó không?",
+        "a": "Có. Chỗ đậu xe máy ngay trước mặt trên đường Vĩnh Viễn, và có bãi đậu xe ô tô trả phí trong khoảng cách đi bộ ngắn từ salon."
+      },
+      {
+        "q": "Salon có cắt tóc cho trẻ em không?",
+        "a": "Tất nhiên rồi. Chúng tôi rất kiên nhẫn và nhẹ nhàng với các bé, và lần cắt tóc đầu tiên của một đứa trẻ là điều chúng tôi tự hào làm cho thật thoải mái và vui vẻ."
+      },
+      {
+        "q": "Tại sao salon không niêm yết giá cố định?",
+        "a": "Vì mỗi mái tóc đều khác nhau. Chiều dài, độ dày, và kỹ thuật cần thiết đều thay đổi công việc — nên chúng tôi báo giá trung thực sau khi xem tóc trực tiếp, không bao giờ là một con số cho tất cả mọi người."
+      },
+      {
+        "q": "Salon sử dụng sản phẩm gì?",
+        "a": "Chỉ sản phẩm chuyên nghiệp từ các thương hiệu uy tín. Nếu bạn muốn mang sản phẩm về nhà để giữ kiểu, cứ hỏi thợ cắt tóc của bạn."
+      },
+      {
+        "q": "Tôi có thể mang ảnh tham khảo được không?",
+        "a": "Xin hãy mang. Một bức ảnh là cách nhanh nhất để thống nhất về điều bạn muốn — mang bao nhiêu cũng được và chúng tôi sẽ cùng bàn xem điều gì khả thi với tóc của bạn."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Nơi đam mê gặp gỡ sự hoàn hảo. Đặt lịch ngay hôm nay.",
+    "quickLinks": "Liên Kết Nhanh",
+    "contactInfo": "Thông Tin Liên Hệ",
+    "colophon": "Mục Lục",
+    "copyright": "© {year} Hair Salon Phương. Đã đăng ký bản quyền."
+  }
+}

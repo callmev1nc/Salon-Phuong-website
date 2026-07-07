@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "title": "Hair Salon Phương — Editorial Hair Craft in District 10",
+    "description": "Premium haircuts, color, and styling in the heart of District 10, Ho Chi Minh City. Where passion meets perfection."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Story",
+    "services": "Services",
+    "gallery": "Work",
+    "reviews": "Acclaim",
+    "contact": "Visit"
+  },
+  "common": {
+    "languageSwitch": "Tiếng Việt",
+    "languageLabel": "EN",
+    "call": "Call",
+    "zalo": "Zalo",
+    "openNow": "Open now",
+    "closedNow": "Closed",
+    "menu": "Menu",
+    "close": "Close",
+    "viewWork": "View Work",
+    "drag": "Drag",
+    "back": "Back"
+  },
+  "home": {
+    "slogan": "The surprising truth is that doing HAIR doesn't come from TALENT — it comes from PASSION",
+    "sloganEmphasis": ["HAIR", "TALENT", "PASSION"],
+    "cta": "Call Now",
+    "subtitle": "Premium haircuts & styling in the heart of District 10",
+    "scrollPrompt": "Scroll",
+    "eyebrow": "Hair Salon Phương — Est. District 10",
+    "heroTitle": "The craft\nof hair.",
+    "hoursTitle": "Opening Hours",
+    "galleryTitle": "Our Work",
+    "gallerySubtitle": "See what we've crafted for our clients",
+    "galleryEyebrow": "Selected Work",
+    "galleryLink": "View all work",
+    "reviewTitle": "What Our Clients Say",
+    "reviewEyebrow": "Acclaim",
+    "contactTitle": "Get in Touch",
+    "philosophyEyebrow": "Philosophy",
+    "philosophyTitle": "Not talent. Passion.",
+    "philosophySlogan": [
+      "The surprising truth",
+      "is that doing *HAIR*",
+      "doesn't come from *TALENT*",
+      "— it comes from *PASSION*."
+    ],
+    "philosophyBody": "Great hair is not a gift you're born with. It's a discipline, an obsession, a craft sharpened over thousands of heads. We believe in the latter — and it shows in every cut.",
+    "storyEyebrow": "The Process",
+    "storyTitle": "From consultation to confidence",
+    "servicesEyebrow": "Services",
+    "servicesTitle": "Every service, considered",
+    "servicesLink": "See all services",
+    "hoursEyebrow": "Hours",
+    "faqEyebrow": "Good to know",
+    "faqTitle": "Questions, answered",
+    "faqLink": "More questions",
+    "finalEyebrow": "Book by phone",
+    "finalTitle": "Call now.",
+    "finalSubtitle": "Speak directly with the salon. No forms, no waiting — just a conversation and an appointment."
+  },
+  "story": {
+    "steps": [
+      { "kicker": "01", "text": "We listen — your hair, your life, your routine." },
+      { "kicker": "02", "text": "We design — a shape that fits your face and your hands." },
+      { "kicker": "03", "text": "We craft — with precision, product, and patience." },
+      { "kicker": "04", "text": "You leave — confident, every single time." }
+    ]
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "A passion for hair that spans years of dedication",
+    "eyebrow": "The Story",
+    "paragraph1": "Welcome to Hair Salon Phuong, where every haircut is a work of art. Founded on the belief that great hair comes from passion, not just talent, we've been serving the District 10 community with dedication and care.",
+    "paragraph2": "Our team brings together years of experience and a genuine love for the craft. We believe that every client deserves to leave feeling confident and beautiful.",
+    "valuesTitle": "Our Values",
+    "value1": "Quality Products — We use only professional-grade products",
+    "value2": "Personalized Service — Every client gets a tailored consultation",
+    "value3": "Continuous Learning — We stay current with trends and techniques",
+    "visitUs": "Visit Us",
+    "address": "244 Vinh Vien, Phuong 4, District 10, Ho Chi Minh City"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional hair care tailored to you",
+    "eyebrow": "Services",
+    "contactForPrice": "Contact for pricing",
+    "categories": {
+      "cut": "Haircut",
+      "wash": "Hair Wash & Treatment",
+      "perm": "Perm",
+      "color": "Hair Color",
+      "straighten": "Hair Straightening",
+      "other": "Other Services"
+    },
+    "items": {
+      "cutMen": "Men's Haircut",
+      "cutWomen": "Women's Haircut",
+      "cutKids": "Kids' Haircut",
+      "cutStyle": "Styling & Blow-dry",
+      "washBasic": "Basic Hair Wash",
+      "washRelax": "Relaxing Scalp Massage",
+      "washTreatment": "Hair Treatment",
+      "permCurly": "Curly Perm",
+      "permKorean": "Korean Perm",
+      "permVolume": "Volume Perm",
+      "colorNatural": "Natural Dye",
+      "colorBalayage": "Balayage / Ombre",
+      "colorBleach": "Bleach & Toning",
+      "straightRegular": "Regular Straightening",
+      "straightKeratin": "Keratin Treatment",
+      "otherShave": "Shave & Beard Trim",
+      "otherWax": "Waxing",
+      "otherRepair": "Hair Repair Therapy"
+    }
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "Real work, real clients, real results",
+    "eyebrow": "The Collection",
+    "count": "{count} transformations",
+    "filterAll": "All",
+    "filterMen": "Men",
+    "filterWomen": "Women",
+    "filterKids": "Kids",
+    "filterColor": "Color",
+    "beforeAfterEyebrow": "Before / After",
+    "beforeAfterTitle": "See the difference",
+    "beforeAfterSubtitle": "Drag to reveal the transformation"
+  },
+  "reviews": {
+    "title": "What Our Clients Say",
+    "subtitle": "We're proud of the feedback we receive from our valued clients",
+    "eyebrow": "Acclaim",
+    "ratingValue": "4.9",
+    "ratingLabel": "Average rating",
+    "writeReview": "Write a Review on Google",
+    "reviews": [
+      {
+        "name": "Ngoc Tran",
+        "text": "Best salon in District 10! The team is incredibly skilled and always listens to what I want. My go-to place for haircuts.",
+        "rating": 5
+      },
+      {
+        "name": "Minh Anh",
+        "text": "I've been coming here for years. Professional, friendly, and consistent quality. Highly recommended!",
+        "rating": 5
+      },
+      {
+        "name": "Thanh Hoa",
+        "text": "Amazing balayage work! The color turned out exactly how I imagined. Will definitely come back.",
+        "rating": 5
+      },
+      {
+        "name": "Quoc Bao",
+        "text": "Great barber shop vibes. Clean cuts, reasonable pricing, and the staff really care about their work.",
+        "rating": 5
+      },
+      {
+        "name": "Linh Chi",
+        "text": "Took my son here for his first haircut. They were so patient and gentle with him. Wonderful experience!",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Book your appointment today!",
+    "eyebrow": "Visit",
+    "phone": "Phone",
+    "zalo": "Zalo",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Opening Hours",
+    "hoursWeekday": "Mon – Sun: 8:00 AM – 8:30 PM",
+    "callNow": "Call Now",
+    "getDirections": "Get Directions",
+    "followUs": "Follow Us",
+    "bookingNote": "Booking by phone only — no online form.",
+    "faqTitle": "Frequently asked"
+  },
+  "faq": {
+    "items": [
+      {
+        "q": "Do I need an appointment, or can I walk in?",
+        "a": "Both are welcome. Walk-ins are taken in order of arrival, but to avoid a wait — especially evenings and weekends — we recommend calling ahead to reserve your slot."
+      },
+      {
+        "q": "Is there parking nearby?",
+        "a": "Yes. Motorbike parking is available right out front on Vĩnh Viễn, and there is paid car parking within a short walk of the salon."
+      },
+      {
+        "q": "Do you cut children's hair?",
+        "a": "Absolutely. We're patient and gentle with little ones, and a child's first haircut is something we take pride in making comfortable and fun."
+      },
+      {
+        "q": "Why don't you list fixed prices?",
+        "a": "Because every head of hair is different. Length, density, and the technique required all change the work — so we quote honestly after seeing your hair in person, never a one-size-fits-all number."
+      },
+      {
+        "q": "What products do you use?",
+        "a": "Only professional-grade products from trusted brands. If you'd like to take a product home to maintain your look, just ask your stylist."
+      },
+      {
+        "q": "Can I bring a reference photo?",
+        "a": "Please do. A photo is the fastest way to align on what you want — bring as many as you like and we'll talk through what's achievable for your hair."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Where passion meets perfection. Book your appointment today.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "colophon": "Index",
+    "copyright": "© {year} Hair Salon Phương. All rights reserved."
+  }
+}
