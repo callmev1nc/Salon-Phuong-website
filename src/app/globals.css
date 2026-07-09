@@ -62,8 +62,8 @@
   .no-scrollbar::-webkit-scrollbar {
     display: none;
   }
-  /* Monochrome treatment on every customer/shop image. */
+  /* Subtle contrast only — imagery shown in full colour (owner request). */
   .grayscale-img {
-    @apply grayscale contrast-[1.02];
+    @apply contrast-[1.02];
   }
 }

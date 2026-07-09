@@ -14,7 +14,7 @@ const inter = Inter({
   variable: "--font-inter",
 });
 const playfair = Playfair_Display({
-  subsets: ["latin"],
+  subsets: ["latin", "vietnamese"],
   display: "swap",
   variable: "--font-playfair",
 });

@@ -71,7 +71,7 @@ export function TextReveal({
       viewport={once ? viewportOnce : { once: false }}
     >
       {lines.map((line, i) => (
-        <span key={i} className="block overflow-hidden">
+        <span key={i} className="block overflow-hidden pb-[0.2em] -mb-[0.2em]">
           <motion.span
             variants={lineVariant}
             className="block will-change-transform"

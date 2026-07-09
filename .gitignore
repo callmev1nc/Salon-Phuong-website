@@ -34,3 +34,5 @@ next-env.d.ts
 
 # tooling cache
 /.impeccable
+
+.vercel

@@ -37,15 +37,15 @@ export function Hero() {
           transition={{ duration: 14, ease: "linear", repeat: Infinity, repeatType: "reverse" }}
         >
           <Image
-            src="/images/shop/shop-0.webp"
+            src="/images/hero/boss.webp"
             alt=""
             fill
             priority
             sizes="100vw"
-            className="grayscale-img object-cover opacity-70"
+            className="grayscale-img object-cover object-[center_top] opacity-85"
           />
         </motion.div>
-        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/40 to-black/85" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/20 to-black/70" />
       </motion.div>
 
       {/* Content */}

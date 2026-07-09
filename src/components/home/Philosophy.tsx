@@ -42,10 +42,10 @@ export function Philosophy() {
           initial="hidden"
           whileInView="show"
           viewport={viewportOnce}
-          className="max-w-[20ch] font-serif text-3xl font-medium leading-[1.15] text-black sm:text-4xl lg:text-[3.4rem]"
+          className="max-w-[20ch] font-serif text-3xl font-medium leading-[1.15] lg:leading-[1.3] text-black sm:text-4xl lg:text-[3.4rem]"
         >
           {lines.map((line, i) => (
-            <span key={i} className="block overflow-hidden">
+            <span key={i} className="block overflow-hidden pb-[0.2em] -mb-[0.2em]">
               <motion.span variants={maskLine} className="block">
                 {renderLine(line)}
               </motion.span>
